@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="authorization_period">Authorization Period</string>
+    <string name="mortgage_principal_amount">Mortgage Principle Amount</string>
+    <string name="interest_rate">Interest Rate</string>
+
+    <string-array name="interest_rate">
+        <item>1.55</item>
+        <item>2.24</item>
+        <item>2.29</item>
+        <item>2.79</item>
+        <item>2.94</item>
+        <item>3.04</item>
+        <item>3.49</item>
+        <item>3.60</item>
+        <item>3.74</item>
+        <item>4.59</item>
+        <item>5.24</item>
+        <item>5.39</item>
+        <item>5.60</item>
+    </string-array>
+    
+    <string-array name="auth_period">
+        <item>0.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+</resources>
